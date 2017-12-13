@@ -10,16 +10,23 @@ body {
   margin: 0 auto;
 }
 
+div.banner {
+background-color: #000;
+text-align: center;
+padding-top: 3em;
+padding-bottom: 2em;
+}
+
 
 nav li {
-color: #000;
+color: #FFF;
 font-family: sans-serif;
 margin-right: 2em;
 display: inline;
 }
 
 nav a {
-color: #000;
+color: #FFF;
 }
 
 nav a:hover {
@@ -28,7 +35,7 @@ nav a:hover {
 
 h1 {
 Font-family: sans-serif;
-color: #666;
+color: #CCC;
 font-size: 4em;
 
 }
