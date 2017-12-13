@@ -6,7 +6,7 @@ body {
 .structure {
  text-align:center;
 	width: 90%;
-	max-width: 60em;
+	max-width: 70em;
   margin: 0 auto;
 }
 
@@ -60,6 +60,8 @@ p {
 font-family: sans-serif;
 line-height: 1.45em;
 margin-bottom: 4em;
+padding-left: 10em;
+padding-right: 10em;
 }
 
 .body {
